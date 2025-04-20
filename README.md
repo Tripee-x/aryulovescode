@@ -19,15 +19,20 @@
        
 2. _Semister - 2_
    - ***DSA [python]***
-     - Introduction to Python syntax, variables, and data types
-     - Conditional looping
-     - Functions
-     - OOPS
+     - 1D and 2D Arrays
+     - Searching and Sorting Algorithms
+     - Recursion 
+     - Dynamic Programming
+     - Linked list, Stack ,Queues
+     - Binary Tree, Heaps
      
    - ***Mathematics 1***
+     - Mathematical fucntions
+     - Sampling Techniques
+     - Statistical Distributions
+     - Mathematical Theory
+     - Pandas and Data Analysis
      - Probability
-     - Combinatorics
-     - 11th Grade Math
        
    - ***Web Development***
      - HTML
